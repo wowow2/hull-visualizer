@@ -5,7 +5,7 @@
   "private": true,
   "main": "src/webapp/server.js",
   "scripts": {
-    "start": "node src/webapp/server.js",
+    "start": "node webapp/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
