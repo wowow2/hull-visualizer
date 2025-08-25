@@ -1,0 +1,19 @@
+{
+  "name": "hull-visualizer-app",
+  "version": "1.0.0",
+  "description": "An interactive web application for visualizing convex and concave hulls, powered by a C++ WebAssembly backend.",
+  "private": true,
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Abbas Rizvi",
+  "license": "ISC"
+}
