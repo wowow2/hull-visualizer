@@ -1,4 +1,4 @@
-# Hull Visualizer
+# Hull Visualizer: Interactive Web App for Convex and Concave Hulls with C++/Wasm
 
 Hull Visualizer is an interactive web application that lets users create 2D point clouds and visualize **Convex** and **Concave Hulls** in real-time. Points can be added dynamically, and the hulls update instantly. The live application is deployed on Render: [https://hull-visualizer.onrender.com/](https://hull-visualizer.onrender.com/)
 
